@@ -1,0 +1,2 @@
+﻿  참조리턴.cpp
+C:\Users\LG\source\repos\20190930_c++\20190930_c++\참조리턴.cpp(17,15): error C2106:  '=': 왼쪽 피연산자는 l-value이어야 합니다.
